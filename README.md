@@ -14,6 +14,33 @@ The combination of the Pandemic & global politics creates a particularly unique 
 
 ## Description of Data
 
+Forbes’ utilized stock prices and exchange rates from March 11, 2022 to calculate the net worth of billionaires worldwide. Moreover, Forbes’ also publishes a real-time net worth list, updated daily, of all 2,668 billionaires. However, for the purpose of this study, I will be employing the March 2022 dataset sourced from Kaggle. 
+
+The data is organized in a CSV file with 2,668 rows (one for each billionaire) and 22 columns. The 22 columns include data on the following:
+
+1. Rank
+2. Billionaire’s name 
+3. Age
+4. Net worth (in millions USD)
+5. Year of ranking (2022 for all rows)
+6. Month of ranking (4 for all rows, meaning April)
+7. Category/industry
+8. Primary source of wealth 
+9. Country of residence
+10. State (if applicable)
+11. City 
+12. Country of citizenship
+13. Organization/company
+14. Self-made (true or false)
+15. Gender
+16. Birthdate 
+17. Title (CEO, entrepreneur, etc.)
+18. Philanthropy score 
+19. Residence
+20. Number of siblings
+21. Bio (short description)
+22. Extended biography 
+
 ## Description of the Methods
 
 ### Preprocessing Steps
