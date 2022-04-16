@@ -1,7 +1,8 @@
 # Title
 ### By Kimya Shirazi 
 
-Link to the dataset: https://www.kaggle.com/datasets/prasertk/forbes-worlds-billionaires-list-2022?resource=download
+Link to the dataset:
+https://www.kaggle.com/datasets/prasertk/forbes-worlds-billionaires-list-2022?resource=download
 
 ## Introduction
 
