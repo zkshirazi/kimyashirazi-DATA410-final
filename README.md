@@ -14,7 +14,7 @@ The combination of the Pandemic & global politics creates a particularly unique 
 
 ## Description of Data
 
-Forbes’ utilized stock prices and exchange rates from March 11, 2022 to calculate the net worth of billionaires worldwide. Moreover, Forbes’ also publishes a real-time net worth list, updated daily, of all 2,668 billionaires. However, for the purpose of this study, I will be employing the March 2022 dataset sourced from Kaggle. 
+The Forbes World’s Billionaires list is a snapshot of wealth using stock prices and exchange rates from March 11, 2022. Moreover, Forbes’ also publishes a real-time net worth list, updated daily, of all 2,668 billionaires. However, for the purpose of this study, I will be employing the March 2022 dataset sourced from Kaggle. 
 
 The data is organized in a CSV file with 2,668 rows (one for each billionaire) and 22 columns. The 22 columns include data on the following:
 
@@ -40,6 +40,8 @@ The data is organized in a CSV file with 2,668 rows (one for each billionaire) a
 20. Number of siblings
 21. Bio (short description)
 22. Extended biography 
+
+The Forbes’ list includes individuals rather than multigenerational families who share fortunes, though the dataset includes wealth belonging to a billionaire’s spouse and children if that person is the founder of the fortune. In some cases, Forbes’ lists siblings or couples together if the ownership breakdown among them isn’t clear, but here an estimated net worth of $1 billion per person is needed to meet that threshold. Moreover, the calculation includes a variety of assets, including private companies, real estate, art and more. While Forbes does not have access to each billionaire’s private balance sheet (though some provide it), they simply discount fortunes in the cases where documentation is not supplied or available. 
 
 ## Description of the Methods
 
