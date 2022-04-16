@@ -45,6 +45,8 @@ The Forbes’ list includes individuals rather than multigenerational families w
 
 ## Description of the Methods
 
+Based on the nature of the dataset, I will be employing algorithms that center around classification. Given a set of observations and labels to train on, classification entails categorizing the data points using the provided information. Classification algorithms involve a labeled dataset, thus classification is defined as a form of supervised learning. The two primary types of classification algorithms are lazy learners and eager learners. Lazy learners store the training data in memory and classify the testing data point based on related stored train data. While training requires less time with a lazy learner, the prediction can be slower. In contrast, an eager learner trains on the data in order to cover all possible scenarios, therefore establishing predictions afterwards. Hence, training requires ample time with this method, but the prediction rate is faster. There is no “best” classification algorithm, but it is key to tailor it to the dataset based on the unique qualities of the data to optimize performance. Consequently, for the purpose of this study, I will experiment with a variety of classification algorithms.  
+
 ### Preprocessing Steps
 
 ### Machine Learning Methodology 
