@@ -56,6 +56,7 @@ The chosen dataset contains numerical and textual data. However, the majority of
 Finally, it is of significant importance to gather a list of common English stopwords (commonly used words that do not contribute to overall meaning), and remove them from the text data to eliminate them from influencing classification as well as lower the number of words per observation. After the string data is significantly cleaner, we can tokenize the text (split it into individual words in a list). This is essential in order to transform our text data into a matrix or vector form. The two options for doing this are using the CountVectorizer function or by creating a TF-IDF (Term Frequency Inverse Document Frequency) matrix. These approaches utilize the frequency count of the words in the post as the metric for future modeling input. A functional programming approach is ideal for setting up these processing steps in order to best streamline cleaning training data and future data that might be plugged into the model.
 
 ### Machine Learning Methodology 
+This section will be filled in for the final project using the score results and comparing the different methodologies to understand why some may outperform others.
 
 ## Pipeline
 ![Untitled drawing](https://user-images.githubusercontent.com/76021844/163297864-ca3c80a7-e2f2-45a4-ae8e-458b9ea62016.png)
