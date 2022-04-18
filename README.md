@@ -58,6 +58,7 @@ Finally, it is of significant importance to gather a list of common English stop
 ### Machine Learning Methodology 
 
 ## Pipeline
+![Untitled drawing](https://user-images.githubusercontent.com/76021844/163297864-ca3c80a7-e2f2-45a4-ae8e-458b9ea62016.png)
 
 ## Results/Inferences
 This section will be filled in for the final project using the score results and comparing the different methodologies to understand why some may outperform others. 
