@@ -61,11 +61,9 @@ This section will be filled in for the final project using the score results and
 ## Pipeline
 ![Untitled drawing](https://user-images.githubusercontent.com/76021844/163297864-ca3c80a7-e2f2-45a4-ae8e-458b9ea62016.png)
 
-## Results/Inferences
-This section will be filled in for the final project using the score results and comparing the different methodologies to understand why some may outperform others. 
 
 ## Concluding Thoughts and Future Work 
-This section will also be filled in for the final project with concluding thoughts and ideas for how this research should be expanded in the future to better understand classification tasks using text data. 
+Cross-validation would be a useful exercise to ensure there is no one specific model that outperforms the others. This area was a computational efficiency problem when I was conducting my analysis, but cross-validation is a very important way to understand the results of a particular model if a longer timeframe were available.
 
 ## References 
 
